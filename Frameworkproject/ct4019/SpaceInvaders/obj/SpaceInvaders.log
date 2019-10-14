@@ -1,0 +1,12 @@
+﻿  main.cpp
+  Shield.cpp
+  Player.cpp
+  MysteryShip.cpp
+  MainMenuSelector.cpp
+  HighScoreManager.cpp
+  GameManager.cpp
+  EnemyAlien.cpp
+  DrawManager.cpp
+  Bullet.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'framework.lib'
